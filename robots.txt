@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /app
+Disallow: /assets
+Disallow: /themes
+Disallow: /*?*
+
+Sitemap: http://oke.streamdon.com/sitemap.xml
